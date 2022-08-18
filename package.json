@@ -1,0 +1,14 @@
+{
+  "name": "pagetransition",
+  "version": "1.0.0",
+  "description": "Page transition of furniture website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baga Kenny",
+  "license": "ISC",
+  "dependencies": {
+    "@barba/core": "^2.9.7"
+  }
+}
